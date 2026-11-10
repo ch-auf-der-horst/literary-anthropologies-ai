@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "KI und Literatur – Begleitmaterialien zum Changchun-Aufsatz"
+message: "Bitte diese Materialien mit Namensnennung zitieren."
+type: dataset
+authors:
+  - family-names: "auf der Horst"
+    given-names: Christoph
+    affiliation: "Arbeitsstelle Entwicklung moderner Fremdsprachenmethodik und -didaktik, insbesondere Fremdsprachen, Heinrich-Heine-Universität Düsseldorf"
+    orcid: "https://orcid.org/0000-0002-9372-7537"
+    email: Christoph.aufderhorst@uni-duesseldorf.de
+keywords:
+  - authorship
+  - generative AI
+  - literary discourse
+  - corpus linguistics
+  - research data
+license: "CC-BY-4.0"
+repository-code: ""
+date-released: "2026-11-10"

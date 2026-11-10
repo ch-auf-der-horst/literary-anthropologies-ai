@@ -1,0 +1,62 @@
+[
+  {
+    "language": "DE",
+    "family": "BT01",
+    "name": "Autorschafts-Positionierung / Ablehnung generativer KI"
+  },
+  {
+    "language": "DE",
+    "family": "BT02",
+    "name": "KI als Schreibwerkzeug / Prozess / begrenzte Nutzung"
+  },
+  {
+    "language": "DE",
+    "family": "BT03",
+    "name": "KI-Kollaboration / Fanfiction / öffentliches Experiment"
+  },
+  {
+    "language": "DE",
+    "family": "BT04",
+    "name": "Reflexion / Umdeutung / literarische Figur der KI"
+  },
+  {
+    "language": "DE",
+    "family": "BT05",
+    "name": "Literaturbetrieb / Produktion / Markt (nicht nur Schreiben)"
+  },
+  {
+    "language": "DE",
+    "family": "BT06",
+    "name": "KI als literarisches Thema (nicht Werkzeug)"
+  },
+  {
+    "language": "EN",
+    "family": "EN01",
+    "name": "Branchenethik, Rechenschaft und normative Ablehnung"
+  },
+  {
+    "language": "EN",
+    "family": "EN02",
+    "name": "Assistenz vs. Ersatz / Produktionsethik"
+  },
+  {
+    "language": "EN",
+    "family": "EN03",
+    "name": "Affirmative Assistenz-Legitimierung (inkl. Promo)"
+  },
+  {
+    "language": "EN",
+    "family": "EN04",
+    "name": "Demonstrativer Vollersatz (affirmativ)"
+  },
+  {
+    "language": "EN",
+    "family": "EN05",
+    "name": "Schreibpraxis / humoristische Grenzerfahrung"
+  },
+  {
+    "language": "EN",
+    "family": "EN06",
+    "name": "Fiktionsentscheidung vs. Alltags-KI"
+  }
+]

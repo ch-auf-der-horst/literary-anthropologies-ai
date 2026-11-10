@@ -1,0 +1,54 @@
+{
+  "stem": "Abb_Autorschaft_K8",
+  "title": "Worin besteht menschliche Autorschaft?",
+  "subtitle": "Syntheseabbildung zu Kapitel 8",
+  "start": [
+    "Generative KI als Anlass,",
+    "menschliche Autorschaft zu begründen"
+  ],
+  "finding": [
+    "Die Beiträge begründen menschliche Autorschaft",
+    "durch unterschiedliche Beziehungen zu Werk und Publikum.",
+    "Technische Delegation erscheint dabei als Fortführung,",
+    "Verschiebung oder Verlust menschlicher Beteiligung."
+  ],
+  "caption": "Drei Begründungen menschlicher Autorschaft. Ausgangspunkt ist generative KI als Anlass der Begründung, nicht notwendig ein KI-erzeugtes Werk. Die Gabelung fragt, ob Steuerung als schöpferische Beteiligung genügt: Kontrolle über das Ergebnis und Entfernung von der Hervorbringung sind Bewertungen verwandter Tätigkeiten, keine sich ausschließenden Abläufe. Fallkennungen, keine Arenenspalten. Rezeption und Rezension sind ausgelassen. Der englische BookTok-Fall betrifft beauftragte Illustrationen und die Auskunft darüber, nicht den literarischen Wortlaut. Quelle: Aufsatz_v7_gekuerzt, Kapitel 8.",
+  "paths": {
+    "herkunft": {
+      "title": "Entstehungsgeschichte",
+      "claim": "Erfahrung und Biografie",
+      "cases": [
+        ["Delabar · DE-018", "Gewordensein"],
+        ["Li Shaojun · CN-021", "erzählbare Entstehung"]
+      ]
+    },
+    "arbeit": {
+      "title": "Arbeit am Text",
+      "claim": "Anregen, steuern, beurteilen",
+      "before": ["Bauer · DE-162", "anregen und anerkennen"]
+    },
+    "verantwortung": {
+      "title": "Öffentliche Verantwortung",
+      "claim": "Dem Publikum Auskunft geben",
+      "cases": [
+        ["BT-EN-A-001", "beauftragte Illustrationen"]
+      ]
+    }
+  },
+  "fork": {
+    "hinge": ["Genügt Steuerung als", "schöpferische Beteiligung?"],
+    "keep": {
+      "title": ["Kontrolle über", "das Ergebnis"],
+      "cases": [
+        ["Tischer · DE-164", "steuern und überarbeiten"],
+        ["Xu Junrui · CN-018", "auf das Vorhaben ausrichten"]
+      ]
+    },
+    "loss": {
+      "title": ["Entfernung von der", "Hervorbringung"],
+      "cases": [
+        ["Zhang Minghui · CN-022", "Auswahl als Zensorrolle"]
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+# Abbildung · Worin besteht menschliche Autorschaft?
+
+**Bildunterschrift:** Drei Begründungen menschlicher Autorschaft. Ausgangspunkt ist generative KI als Anlass der Begründung, nicht notwendig ein KI-erzeugtes Werk. Die Gabelung fragt, ob Steuerung als schöpferische Beteiligung genügt: Kontrolle über das Ergebnis und Entfernung von der Hervorbringung sind Bewertungen verwandter Tätigkeiten, keine sich ausschließenden Abläufe. Fallkennungen, keine Arenenspalten. Rezeption und Rezension sind ausgelassen. Der englische BookTok-Fall betrifft beauftragte Illustrationen und die Auskunft darüber, nicht den literarischen Wortlaut. Quelle: Aufsatz_v7_gekuerzt, Kapitel 8.
+
+Die Grafik verdichtet die Erosionsfrage aus Kapitel 8. Generative KI ist der Anlass, menschliche Autorschaft zu begründen; das umfasst Produktionsberichte ebenso wie Delabars grundsätzliche Unterscheidung von Gewordensein und Gemachtsein. Drei Begründungswege sind durch Fallkennungen vertreten, nicht durch Arenenspalten. Eine Typologie philosophischer Deutscher, pragmatischer Chinesen und affektiver BookTok-Nutzer würde die belegten Überschneidungen verdecken.
+
+Der linke Weg bindet den Anspruch an eine Geschichte, die der Textoberfläche vorausliegt. Delabar (DE-018) setzt Gewordensein, Biografie und Erfahrung gegen das Gemachtsein der Maschine. Li Shaojun (CN-021) bestimmt den menschlichen Anteil durch die erzählbare Entstehungsgeschichte und die wechselseitige Bezeugung von Person und Gedicht.
+
+Der mittlere Weg betrifft Tätigkeiten am generierten Ergebnis. Bauer (DE-162) steht vor der Gabelung: Er verlegt die menschliche Leistung auf Veranlassung und Anerkennung, nicht auf iterative Buchherstellung. Die Gabelung ist eine Bewertungsfrage: Genügt Steuerung als schöpferische Beteiligung? Tischer (DE-164) und Xu Junrui (CN-018) beschreiben verwandte Tätigkeiten des Anregens, Ausrichtens, Prüfens und Überarbeitens als Kontrolle über das Ergebnis. Zhang Minghui (CN-022) bewertet denselben Wechsel zur nachträglichen Würdigung und Auswahl als Entfernung vom schöpferischen Geschehen: vom Dichter zum Zensor. Die beiden unteren Felder sind also unterschiedliche Bewertungen, keine sich ausschließenden technischen Abläufe. Die Gegenüberstellung von Xu und Zhang aus Abschnitt 6.1 ist in dieser Gabelung bereits enthalten.
+
+Der rechte Weg betrifft öffentliche Zurechnung unter verteilter Produktion. Im englischen BookTok-Fall (BT-EN-A-001) bleibt eine Person dem Publikum auskunftspflichtig, obwohl sie beauftragte Illustrationen nicht selbst hergestellt hat. Die Beziehung gilt hier dem Werkzusammenhang und dem Publikum, nicht allein dem literarischen Wortlaut.
+
+Unten steht ein Befund über die untersuchten Zuschreibungen, kein Nachweis tatsächlichen Verlusts. Die Beiträge begründen menschliche Autorschaft durch unterschiedliche Beziehungen zu Werk und Publikum. Technische Delegation erscheint dabei als Fortführung, Verschiebung oder Verlust menschlicher Beteiligung. Deshalb kann derselbe technische Vorgang zugleich als Erhalt von Handlungsmacht und als Verlust von Autorschaft gelten.
+
+Lektüreanalysen (Li Hao, Heß, BookTok-Rezensionen) erweitern in Kapitel 8 die Autorschaftsfrage auf Vermittler. Sie sind hier bewusst ausgelassen, damit die Grafik eine Aussage und einen Konflikt trägt. Floridi, Colella und Bajohr liefern analytisches Vokabular, erscheinen aber nicht als Fälle.
+
+Grundlage: Aufsatz_v7_gekuerzt, Kapitel 8, mit den Nahlektüren der Kapitel 5–7. Keine neue Datenerhebung.

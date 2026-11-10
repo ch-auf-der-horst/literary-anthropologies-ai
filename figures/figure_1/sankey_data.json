@@ -1,0 +1,33 @@
+{
+  "stem": "Abb_Korpus_Sankey_K3",
+  "title": "Auswahlwege und analytische Verdichtung",
+  "subtitle": "Bandbreite proportional zum jeweiligen Ausgangsbestand: DE 245 · CN 962 · BT 220",
+  "caption": "Drei Auswahlwege. Bandbreite proportional zum jeweiligen Ausgangsbestand: DE 245 · CN 962 · BT 220. Graue Ströme verlassen einen Auswertungspfad, nicht notwendig die Untersuchung. Kategorien und Familien sind Bündelungen, keine Restmengen. Quelle: Aufsatz_v7_gekuerzt, Kapitel 3.",
+  "columns": ["Bestand", "Auswahl", "KI-Bezug", "Kerne", "Verdichtung"],
+  "corpora": [
+    {
+      "id": "de",
+      "title": "DE",
+      "harvest": "245",
+      "note": "Inv. + 13",
+      "base": 245,
+      "color": "#246b91"
+    },
+    {
+      "id": "cn",
+      "title": "CN",
+      "harvest": "962",
+      "note": "Inventar",
+      "base": 962,
+      "color": "#a45121"
+    },
+    {
+      "id": "bt",
+      "title": "BT",
+      "harvest": "220",
+      "note": "aus 22.563",
+      "base": 220,
+      "color": "#6351a4"
+    }
+  ]
+}

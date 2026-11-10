@@ -1,0 +1,10 @@
+{
+  "note": "Relative identifiers of private project inputs; hashes document the source version, not public availability. Public figure sources are included under figures/.",
+  "inputs": {
+    "reports/Artikelpruefung_2026-11-09.json": "6c968a33fbfd7ae4f3962daac34c08bdc8f0de803fa0846b22c0da7cae410cf7",
+    "reports/Familienpruefung_2026-11-09.json": "bdc0a2f02064add10db300f4ac2ab3395023e1e8b87f047aa909c76e6ee1b0db",
+    "manuskript_v7/Aufsatz_v7.md": "088ee52df0032fd9a55d7b32b45cbb9131423ec227d438aba5c8c20fecb4abe4",
+    "data/article_boundaries.csv": "c1650cc5c642a03d697169d1c9c78a436d20b79e42694dfe29f2bf3deee57e57",
+    "data/case_manifest.csv": "1613a8a64f4640d9a50b423fe5dabf09e0934484db4174901cb02c8b74ceaf76"
+  }
+}

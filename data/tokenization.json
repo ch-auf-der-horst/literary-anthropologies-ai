@@ -1,0 +1,21 @@
+{
+  "regex": "[^\\W\\d_]+",
+  "normalization": "str.casefold; Unicode alphabetic sequences; no lemmatization",
+  "wordforms": [
+    "ki",
+    "chatgpt",
+    "literatur",
+    "menschen",
+    "mensch",
+    "autoren",
+    "autor",
+    "lesen",
+    "schreiben",
+    "kreativität",
+    "erfahrung",
+    "urheberrecht",
+    "kennzeichnung",
+    "verlage"
+  ],
+  "unit": "article body, including retained quotations and declared mixed-source portions"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "familie_id": "CF01",
+    "familie_name": "Ästhetisch-philosophische Grenzbestimmung: KI und das Humane",
+    "kurzthese": "Diese Texte verhandeln auf theoretischer Ebene, ob und inwiefern KI-generierte Kunst und Literatur das menschliche Schaffen ersetzen oder ergänzen kann. Im Zentrum steht die Frage nach nicht-algorithmisierbaren Elementen — Irrationalität, Emotion, Erfahrung —, die als konstitutiv für das Humane gesetzt werden. Der Diskurs operiert philosophisch-ästhetisch und zieht scharfe ontologische Grenzen zwischen KI und Mensch.",
+    "beispiel_code_1": "KI-Kunst_als_Grenzobjekt_Technologie-Kunst"
+  },
+  {
+    "familie_id": "CF02",
+    "familie_name": "Autorschaftsdebatte: Wer schreibt im KI-Zeitalter?",
+    "kurzthese": "Diese Texte verhandeln die Frage literarischer Urheberschaft unter den Bedingungen von KI-Schreiben — von der philosophischen Frage, ob KI 'Autor' sein kann, bis zur konkreten Rollenverschiebung vom Schöpfer zum Zensor. Dabei werden fundamentale Kategorien der Literaturtheorie (Autorschaft, Originalität, Kreativität) neu befragt. Die Debatte ist cn-spezifisch durch den Referenzfall eines KI-Romans, der 2023 einen chinesischen Literaturpreis gewann.",
+    "beispiel_code_1": "Autorschaftsdebatte_KI-als-Autor"
+  },
+  {
+    "familie_id": "CF03",
+    "familie_name": "Literaturtheoretische Statusdebatte: Ist KI-Schreiben Literatur?",
+    "kurzthese": "Diese Texte diskutieren auf literaturwissenschaftlicher Ebene, ob KI-generierte Texte den Status von Literatur beanspruchen können. Anders als die philosophische Grenzbestimmung in CF01 fokussieren sie auf konkrete Kriterien wie formale Innovation, Diskursivität und paradigmatischen Wandel. Das Fehlen eines akademischen Konsenses wird als charakteristisch für die Dynamik des Diskurses beschrieben.",
+    "beispiel_code_1": "Paradigmenwechsel-Debatte KI-Literatur"
+  },
+  {
+    "familie_id": "CF04",
+    "familie_name": "KI als Hilfswerkzeug: Schreibpraxis und Assistenzfunktion",
+    "kurzthese": "Diese Texte teilen die pragmatische Grundhaltung, KI als nützliches Werkzeug für literarisches Schreiben, Drehbucharbeit und Redaktion zu akzeptieren, ohne ihr kreatives Ersetzungspotenzial anzuerkennen. Autorinnen und Autoren — darunter Liu Cixin und Drehbuchautoren — beschreiben KI als 'Assistenten' für Recherche, Materialsammlung und Ideenfindung, betonen aber den unverzichtbaren menschlichen Kern. Diese instrumentelle Perspektive ist ein dominantes chinesisches Diskursmuster.",
+    "beispiel_code_1": "KI_als_Hilfswerkzeug_nicht_Ersatz"
+  },
+  {
+    "familie_id": "CF05",
+    "familie_name": "Epochaler Wandel und Bedrohungswahrnehmung: Literatur am Wendepunkt",
+    "kurzthese": "Diese Texte thematisieren KI als fundamentalen Einschnitt in der Literaturgeschichte und verarbeiten die Bedrohungserfahrung literarischer Schaffender. Der Diskurs schwankt zwischen apokalyptischer Diagnose (95% der Textberufe ersetzbar) und historisierender Einordnung (Literatur hat sich immer gewandelt). Charakteristisch ist die Perspektive von Autoren, die ihre eigene Karriere im Angesicht von KI reflektieren.",
+    "beispiel_code_1": "KI-Literatur als epochaler Wandel"
+  },
+  {
+    "familie_id": "CF06",
+    "familie_name": "KI-Lesen: Digitale Lesekultur, Effizienz und Informationskokon",
+    "kurzthese": "Diese Texte verhandeln die Transformation der Lesekultur durch KI-gestützte Empfehlungssysteme, personalisierte Lesepläne und automatische Textzusammenfassungen. Neben Effizienzgewinnen werden spezifische Risiken benannt: der 'Informationskokon' (Filterblase), die Schwächung literarischer Sensibilität durch vereinfachende KI-Zusammenfassungen und die Spannung zwischen Wissenserwerb und tiefem Lesen. Das Thema ist cn-spezifisch in seiner Verbindung mit staatlicher Leseförderungspolitik.",
+    "beispiel_code_1": "KI-Leseassistenz"
+  },
+  {
+    "familie_id": "CF07",
+    "familie_name": "AIGC-Industrie: Film, Science-Fiction und Medienproduktion",
+    "kurzthese": "Diese Texte berichten aus industriellen und institutionellen Kontexten über die Integration von AIGC (AI Generated Content) in Film, Science-Fiction-Literatur und Medienproduktion. Im Vordergrund stehen Branchenevents, Produktionspraxen und die Frage, wie Kreativität und Technologie symbiotisch zusammenwirken können. Dieser cn-spezifische Diskurs hat kein DE-Pendant und ist eng mit der staatlich geförderten Kulturindustrie verbunden.",
+    "beispiel_code_1": "AIGC-SF-Industrie-Forum"
+  },
+  {
+    "familie_id": "CF08",
+    "familie_name": "Verlagswesen und institutionelle KI-Integration",
+    "kurzthese": "Diese Texte fokussieren die institutionelle Dimension von KI im Verlagswesen: Effizienzgewinne bei Katalogisierung, mehrsprachigem Publizieren und Netzliteratur-Produktion. Anders als die DE-Regulierungsdebatte (F4) fehlt hier das Urheberrechts- und Transparenzthema fast vollständig; im Vordergrund steht pragmatische Adoption und internationale Diskursbildung.",
+    "beispiel_code_1": "KI-Integration_Verlagswesen"
+  },
+  {
+    "familie_id": "CF09",
+    "familie_name": "Urheberrecht und KI-Kunst: Protest und rechtliche Grauzone",
+    "kurzthese": "Diese Texte behandeln urheberrechtliche Konflikte rund um KI-generierte Kunst und KI-Trainingsmodelle. Der internationale Künstlerprotest gegen Christie's sowie die rechtlichen Grauzonen beim Training mit geschützten Werken stehen im Mittelpunkt. Verglichen mit DE (F4) ist der CN-Diskurs hier deutlich schmaler und weniger institutionell ausdifferenziert.",
+    "beispiel_code_1": "Urheberrecht_KI-Trainingsmodelle"
+  },
+  {
+    "familie_id": "CF10",
+    "familie_name": "KI und digitales Kulturerbe: Museum, Performance, Tradition",
+    "kurzthese": "Diese Texte beschreiben die Nutzung von KI, AR und Motion-Capture-Technologien zur Digitalisierung und Vermittlung immateriellen Kulturerbes — von der Verbotenen Stadt über Dunhuang-Grotten bis zu Roboter-Löwentänzen beim Frühlingsfest. Dieser Diskursstrang ist cn-spezifisch und verbindet technologische Innovation mit dem Projekt nationaler Kulturbewahrung; er hat kein Pendant im DE-Diskurs.",
+    "beispiel_code_1": "KI_Museumspraxis_China"
+  },
+  {
+    "familie_id": "CF11",
+    "familie_name": "KI und Netzliteratur: Assistenz, Automatisierung und Originalitätsdebatte",
+    "kurzthese": "Diese Texte behandeln KI-Integration in die spezifisch chinesische Netzliteratur (网络文学) — von KI-Schreibassistenten für Online-Plattformen bis zur Debatte um menschliche Originalität im 'Shrimp-Farming'-Modus (养虾, Nutzer steuern KI-Output). Dieser Diskurs ist eng an die kommerzielle Logik chinesischer Onlineliteratur-Plattformen gebunden und hat kein DE-Äquivalent.",
+    "beispiel_code_1": "KI-Schreibassistent_Netzliteratur"
+  },
+  {
+    "familie_id": "CF12",
+    "familie_name": "KI und Originalität: Ambivalenz zwischen Kreativitätshemmung und Befreiung",
+    "kurzthese": "Diese Texte verhandeln die ambivalente Rolle von KI für künstlerische Originalität: Einerseits fördert Big-Data-Produktion eine 'Trägheit des Einfachen' und bedroht echte Kreativität; andererseits kann KI instrumentelle Routinearbeit übernehmen und Schaffende für genuin Kreatives freisetzen. KI wird als 'Super-Plug-in' konzeptualisiert, das Kunst und Technologie von Werkzeugnutzung zur 'Seelenresonanz' befördert.",
+    "beispiel_code_1": "KI_Ambivalenz_Kreativität"
+  }
+]

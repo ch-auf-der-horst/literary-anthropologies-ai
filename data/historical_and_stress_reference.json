@@ -1,0 +1,924 @@
+{
+  "historical": {
+    "all": {
+      "tokens": {
+        "lk": 12925,
+        "lc": 31054
+      },
+      "documents": {
+        "lk": 13,
+        "lc": 36
+      },
+      "wordforms": {
+        "ki": {
+          "lk_count": 144,
+          "lc_count": 512,
+          "lk_document_frequency": 10,
+          "lc_document_frequency": 34,
+          "g2": 18.778612216971325,
+          "direction": "lc",
+          "per_10000_lk": 111.41199226305609,
+          "per_10000_lc": 164.874090294326
+        },
+        "chatgpt": {
+          "lk_count": 22,
+          "lc_count": 154,
+          "lk_document_frequency": 6,
+          "lc_document_frequency": 22,
+          "g2": 28.533473380308664,
+          "direction": "lc",
+          "per_10000_lk": 17.02127659574468,
+          "per_10000_lc": 49.59103497134024
+        },
+        "literatur": {
+          "lk_count": 31,
+          "lc_count": 20,
+          "lk_document_frequency": 4,
+          "lc_document_frequency": 10,
+          "g2": 21.559825618516722,
+          "direction": "lk",
+          "per_10000_lk": 23.984526112185684,
+          "per_10000_lc": 6.44039415212211
+        },
+        "menschen": {
+          "lk_count": 22,
+          "lc_count": 32,
+          "lk_document_frequency": 7,
+          "lc_document_frequency": 14,
+          "g2": 3.1579756296482824,
+          "direction": "lk",
+          "per_10000_lk": 17.02127659574468,
+          "per_10000_lc": 10.304630643395376
+        },
+        "mensch": {
+          "lk_count": 10,
+          "lc_count": 7,
+          "lk_document_frequency": 8,
+          "lc_document_frequency": 7,
+          "g2": 6.330696294035702,
+          "direction": "lk",
+          "per_10000_lk": 7.736943907156673,
+          "per_10000_lc": 2.2541379532427386
+        },
+        "autoren": {
+          "lk_count": 18,
+          "lc_count": 83,
+          "lk_document_frequency": 4,
+          "lc_document_frequency": 25,
+          "g2": 7.1907721575280945,
+          "direction": "lc",
+          "per_10000_lk": 13.926499032882012,
+          "per_10000_lc": 26.727635731306755
+        },
+        "autor": {
+          "lk_count": 17,
+          "lc_count": 35,
+          "lk_document_frequency": 5,
+          "lc_document_frequency": 14,
+          "g2": 0.26817865533414986,
+          "direction": "lk",
+          "per_10000_lk": 13.152804642166343,
+          "per_10000_lc": 11.270689766213692
+        },
+        "lesen": {
+          "lk_count": 23,
+          "lc_count": 16,
+          "lk_document_frequency": 5,
+          "lc_document_frequency": 11,
+          "g2": 14.677121545706406,
+          "direction": "lk",
+          "per_10000_lk": 17.79497098646035,
+          "per_10000_lc": 5.152315321697688
+        },
+        "schreiben": {
+          "lk_count": 14,
+          "lc_count": 85,
+          "lk_document_frequency": 7,
+          "lc_document_frequency": 23,
+          "g2": 12.780359437304451,
+          "direction": "lc",
+          "per_10000_lk": 10.83172147001934,
+          "per_10000_lc": 27.371675146518967
+        },
+        "kreativität": {
+          "lk_count": 10,
+          "lc_count": 10,
+          "lk_document_frequency": 2,
+          "lc_document_frequency": 5,
+          "g2": 3.7266446226983403,
+          "direction": "lk",
+          "per_10000_lk": 7.736943907156673,
+          "per_10000_lc": 3.220197076061055
+        },
+        "erfahrung": {
+          "lk_count": 4,
+          "lc_count": 2,
+          "lk_document_frequency": 3,
+          "lc_document_frequency": 2,
+          "g2": 3.550707325852401,
+          "direction": "lk",
+          "per_10000_lk": 3.094777562862669,
+          "per_10000_lc": 0.644039415212211
+        },
+        "urheberrecht": {
+          "lk_count": 1,
+          "lc_count": 11,
+          "lk_document_frequency": 1,
+          "lc_document_frequency": 6,
+          "g2": 3.221395442007384,
+          "direction": "lc",
+          "per_10000_lk": 0.7736943907156673,
+          "per_10000_lc": 3.5422167836671603
+        },
+        "kennzeichnung": {
+          "lk_count": 0,
+          "lc_count": 33,
+          "lk_document_frequency": 0,
+          "lc_document_frequency": 6,
+          "g2": 22.977297458989494,
+          "direction": "lc",
+          "per_10000_lk": 0.0,
+          "per_10000_lc": 10.626650351001482
+        },
+        "verlage": {
+          "lk_count": 0,
+          "lc_count": 28,
+          "lk_document_frequency": 0,
+          "lc_document_frequency": 13,
+          "g2": 19.49456233315286,
+          "direction": "lc",
+          "per_10000_lk": 0.0,
+          "per_10000_lc": 9.016551812970954
+        }
+      },
+      "direction_changes_from_historical": []
+    },
+    "without_mixed": {
+      "tokens": {
+        "lk": 7424,
+        "lc": 17830
+      },
+      "documents": {
+        "lk": 10,
+        "lc": 27
+      },
+      "wordforms": {
+        "ki": {
+          "lk_count": 63,
+          "lc_count": 429,
+          "lk_document_frequency": 7,
+          "lc_document_frequency": 26,
+          "g2": 77.68504895572757,
+          "direction": "lc",
+          "per_10000_lk": 84.85991379310346,
+          "per_10000_lc": 240.60572069545708
+        },
+        "chatgpt": {
+          "lk_count": 5,
+          "lc_count": 82,
+          "lk_document_frequency": 3,
+          "lc_document_frequency": 14,
+          "g2": 31.140742736964082,
+          "direction": "lc",
+          "per_10000_lk": 6.734913793103448,
+          "per_10000_lc": 45.98990465507572
+        },
+        "literatur": {
+          "lk_count": 10,
+          "lc_count": 17,
+          "lk_document_frequency": 3,
+          "lc_document_frequency": 8,
+          "g2": 0.7273810503256124,
+          "direction": "lk",
+          "per_10000_lk": 13.469827586206897,
+          "per_10000_lc": 9.534492428491307
+        },
+        "menschen": {
+          "lk_count": 11,
+          "lc_count": 25,
+          "lk_document_frequency": 4,
+          "lc_document_frequency": 10,
+          "g2": 0.023127648011854962,
+          "direction": "lk",
+          "per_10000_lk": 14.816810344827585,
+          "per_10000_lc": 14.021312394840157
+        },
+        "mensch": {
+          "lk_count": 8,
+          "lc_count": 6,
+          "lk_document_frequency": 6,
+          "lc_document_frequency": 6,
+          "g2": 4.6469441126173745,
+          "direction": "lk",
+          "per_10000_lk": 10.775862068965518,
+          "per_10000_lc": 3.365114974761638
+        },
+        "autoren": {
+          "lk_count": 5,
+          "lc_count": 61,
+          "lk_document_frequency": 3,
+          "lc_document_frequency": 19,
+          "g2": 19.337351595360456,
+          "direction": "lc",
+          "per_10000_lk": 6.734913793103448,
+          "per_10000_lc": 34.212002243409984
+        },
+        "autor": {
+          "lk_count": 11,
+          "lc_count": 22,
+          "lk_document_frequency": 4,
+          "lc_document_frequency": 10,
+          "g2": 0.24074518710610526,
+          "direction": "lk",
+          "per_10000_lk": 14.816810344827585,
+          "per_10000_lc": 12.338754907459338
+        },
+        "lesen": {
+          "lk_count": 22,
+          "lc_count": 7,
+          "lk_document_frequency": 4,
+          "lc_document_frequency": 6,
+          "g2": 26.721303056920224,
+          "direction": "lk",
+          "per_10000_lk": 29.63362068965517,
+          "per_10000_lc": 3.925967470555244
+        },
+        "schreiben": {
+          "lk_count": 11,
+          "lc_count": 56,
+          "lk_document_frequency": 5,
+          "lc_document_frequency": 16,
+          "g2": 6.100039894643748,
+          "direction": "lc",
+          "per_10000_lk": 14.816810344827585,
+          "per_10000_lc": 31.407739764441953
+        },
+        "kreativität": {
+          "lk_count": 1,
+          "lc_count": 3,
+          "lk_document_frequency": 1,
+          "lc_document_frequency": 3,
+          "g2": 0.03847063639615622,
+          "direction": "lc",
+          "per_10000_lk": 1.3469827586206897,
+          "per_10000_lc": 1.682557487380819
+        },
+        "erfahrung": {
+          "lk_count": 2,
+          "lc_count": 1,
+          "lk_document_frequency": 2,
+          "lc_document_frequency": 1,
+          "g2": 1.7744240331333374,
+          "direction": "lk",
+          "per_10000_lk": 2.6939655172413794,
+          "per_10000_lc": 0.5608524957936063
+        },
+        "urheberrecht": {
+          "lk_count": 1,
+          "lc_count": 4,
+          "lk_document_frequency": 1,
+          "lc_document_frequency": 3,
+          "g2": 0.22936803671631456,
+          "direction": "lc",
+          "per_10000_lk": 1.3469827586206897,
+          "per_10000_lc": 2.243409983174425
+        },
+        "kennzeichnung": {
+          "lk_count": 0,
+          "lc_count": 32,
+          "lk_document_frequency": 0,
+          "lc_document_frequency": 5,
+          "g2": 22.295436651995203,
+          "direction": "lc",
+          "per_10000_lk": 0.0,
+          "per_10000_lc": 17.9472798653954
+        },
+        "verlage": {
+          "lk_count": 0,
+          "lc_count": 26,
+          "lk_document_frequency": 0,
+          "lc_document_frequency": 11,
+          "g2": 18.112465454548925,
+          "direction": "lc",
+          "per_10000_lk": 0.0,
+          "per_10000_lc": 14.582164890633765
+        }
+      },
+      "direction_changes_from_historical": []
+    },
+    "without_mixed_and_summaries": {
+      "tokens": {
+        "lk": 7067,
+        "lc": 13118
+      },
+      "documents": {
+        "lk": 9,
+        "lc": 15
+      },
+      "wordforms": {
+        "ki": {
+          "lk_count": 58,
+          "lc_count": 328,
+          "lk_document_frequency": 6,
+          "lc_document_frequency": 14,
+          "g2": 79.08916214817081,
+          "direction": "lc",
+          "per_10000_lk": 82.07160039620771,
+          "per_10000_lc": 250.03811556639732
+        },
+        "chatgpt": {
+          "lk_count": 3,
+          "lc_count": 61,
+          "lk_document_frequency": 2,
+          "lc_document_frequency": 10,
+          "g2": 34.736944742554975,
+          "direction": "lc",
+          "per_10000_lk": 4.245082779114193,
+          "per_10000_lc": 46.50099100472633
+        },
+        "literatur": {
+          "lk_count": 2,
+          "lc_count": 9,
+          "lk_document_frequency": 2,
+          "lc_document_frequency": 5,
+          "g2": 1.5248760280751745,
+          "direction": "lc",
+          "per_10000_lk": 2.830055186076129,
+          "per_10000_lc": 6.860801951517
+        },
+        "menschen": {
+          "lk_count": 10,
+          "lc_count": 22,
+          "lk_document_frequency": 3,
+          "lc_document_frequency": 8,
+          "g2": 0.20285631953819028,
+          "direction": "lc",
+          "per_10000_lk": 14.150275930380642,
+          "per_10000_lc": 16.770849214819332
+        },
+        "mensch": {
+          "lk_count": 8,
+          "lc_count": 5,
+          "lk_document_frequency": 6,
+          "lc_document_frequency": 5,
+          "g2": 3.780955057500191,
+          "direction": "lk",
+          "per_10000_lk": 11.320220744304516,
+          "per_10000_lc": 3.8115566397316663
+        },
+        "autoren": {
+          "lk_count": 4,
+          "lc_count": 45,
+          "lk_document_frequency": 2,
+          "lc_document_frequency": 9,
+          "g2": 19.511280472632023,
+          "direction": "lc",
+          "per_10000_lk": 5.660110372152258,
+          "per_10000_lc": 34.304009757585
+        },
+        "autor": {
+          "lk_count": 11,
+          "lc_count": 12,
+          "lk_document_frequency": 4,
+          "lc_document_frequency": 6,
+          "g2": 1.5926028317683318,
+          "direction": "lk",
+          "per_10000_lk": 15.565303523418708,
+          "per_10000_lc": 9.147735935356
+        },
+        "lesen": {
+          "lk_count": 22,
+          "lc_count": 6,
+          "lk_document_frequency": 4,
+          "lc_document_frequency": 5,
+          "g2": 22.285589098824794,
+          "direction": "lk",
+          "per_10000_lk": 31.130607046837415,
+          "per_10000_lc": 4.573867967678
+        },
+        "schreiben": {
+          "lk_count": 11,
+          "lc_count": 34,
+          "lk_document_frequency": 5,
+          "lc_document_frequency": 7,
+          "g2": 2.3455029812473462,
+          "direction": "lc",
+          "per_10000_lk": 15.565303523418708,
+          "per_10000_lc": 25.918585150175332
+        },
+        "kreativität": {
+          "lk_count": 1,
+          "lc_count": 2,
+          "lk_document_frequency": 1,
+          "lc_document_frequency": 2,
+          "g2": 0.0037406128766231256,
+          "direction": "lc",
+          "per_10000_lk": 1.4150275930380645,
+          "per_10000_lc": 1.5246226558926665
+        },
+        "erfahrung": {
+          "lk_count": 2,
+          "lc_count": 0,
+          "lk_document_frequency": 2,
+          "lc_document_frequency": 0,
+          "g2": 4.198382661323469,
+          "direction": "lk",
+          "per_10000_lk": 2.830055186076129,
+          "per_10000_lc": 0.0
+        },
+        "urheberrecht": {
+          "lk_count": 1,
+          "lc_count": 3,
+          "lk_document_frequency": 1,
+          "lc_document_frequency": 2,
+          "g2": 0.186087678589282,
+          "direction": "lc",
+          "per_10000_lk": 1.4150275930380645,
+          "per_10000_lc": 2.286933983839
+        },
+        "kennzeichnung": {
+          "lk_count": 0,
+          "lc_count": 29,
+          "lk_document_frequency": 0,
+          "lc_document_frequency": 4,
+          "g2": 25.017829551010887,
+          "direction": "lc",
+          "per_10000_lk": 0.0,
+          "per_10000_lc": 22.107028510443666
+        },
+        "verlage": {
+          "lk_count": 0,
+          "lc_count": 18,
+          "lk_document_frequency": 0,
+          "lc_document_frequency": 7,
+          "g2": 15.523013066469375,
+          "direction": "lc",
+          "per_10000_lk": 0.0,
+          "per_10000_lc": 13.721603903034
+        }
+      },
+      "direction_changes_from_historical": []
+    }
+  },
+  "metadata_stress_test": {
+    "all": {
+      "tokens": {
+        "lk": 12925,
+        "lc": 30849
+      },
+      "documents": {
+        "lk": 13,
+        "lc": 36
+      },
+      "wordforms": {
+        "ki": {
+          "lk_count": 144,
+          "lc_count": 507,
+          "lk_document_frequency": 10,
+          "lc_document_frequency": 34,
+          "g2": 18.415015197424793,
+          "direction": "lc",
+          "per_10000_lk": 111.41199226305609,
+          "per_10000_lc": 164.3489254108723
+        },
+        "chatgpt": {
+          "lk_count": 22,
+          "lc_count": 152,
+          "lk_document_frequency": 6,
+          "lc_document_frequency": 22,
+          "g2": 28.064403483522234,
+          "direction": "lc",
+          "per_10000_lk": 17.02127659574468,
+          "per_10000_lc": 49.27226166164219
+        },
+        "literatur": {
+          "lk_count": 31,
+          "lc_count": 19,
+          "lk_document_frequency": 4,
+          "lc_document_frequency": 9,
+          "g2": 22.552476760847128,
+          "direction": "lk",
+          "per_10000_lk": 23.984526112185684,
+          "per_10000_lc": 6.159032707705274
+        },
+        "menschen": {
+          "lk_count": 22,
+          "lc_count": 32,
+          "lk_document_frequency": 7,
+          "lc_document_frequency": 14,
+          "g2": 3.077175625308998,
+          "direction": "lk",
+          "per_10000_lk": 17.02127659574468,
+          "per_10000_lc": 10.373107718240462
+        },
+        "mensch": {
+          "lk_count": 10,
+          "lc_count": 7,
+          "lk_document_frequency": 8,
+          "lc_document_frequency": 7,
+          "g2": 6.264546796889526,
+          "direction": "lk",
+          "per_10000_lk": 7.736943907156673,
+          "per_10000_lc": 2.269117313365101
+        },
+        "autoren": {
+          "lk_count": 18,
+          "lc_count": 83,
+          "lk_document_frequency": 4,
+          "lc_document_frequency": 25,
+          "g2": 7.34684001473838,
+          "direction": "lc",
+          "per_10000_lk": 13.926499032882012,
+          "per_10000_lc": 26.9052481441862
+        },
+        "autor": {
+          "lk_count": 17,
+          "lc_count": 35,
+          "lk_document_frequency": 5,
+          "lc_document_frequency": 14,
+          "g2": 0.24587290372243764,
+          "direction": "lk",
+          "per_10000_lk": 13.152804642166343,
+          "per_10000_lc": 11.345586566825505
+        },
+        "lesen": {
+          "lk_count": 23,
+          "lc_count": 16,
+          "lk_document_frequency": 5,
+          "lc_document_frequency": 11,
+          "g2": 14.524526905526077,
+          "direction": "lk",
+          "per_10000_lk": 17.79497098646035,
+          "per_10000_lc": 5.186553859120231
+        },
+        "schreiben": {
+          "lk_count": 14,
+          "lc_count": 84,
+          "lk_document_frequency": 7,
+          "lc_document_frequency": 23,
+          "g2": 12.587485451967698,
+          "direction": "lc",
+          "per_10000_lk": 10.83172147001934,
+          "per_10000_lc": 27.22940776038121
+        },
+        "kreativität": {
+          "lk_count": 10,
+          "lc_count": 10,
+          "lk_document_frequency": 2,
+          "lc_document_frequency": 5,
+          "g2": 3.6722006744236086,
+          "direction": "lk",
+          "per_10000_lk": 7.736943907156673,
+          "per_10000_lc": 3.2415961619501443
+        },
+        "erfahrung": {
+          "lk_count": 4,
+          "lc_count": 2,
+          "lk_document_frequency": 3,
+          "lc_document_frequency": 2,
+          "g2": 3.5211309453328092,
+          "direction": "lk",
+          "per_10000_lk": 3.094777562862669,
+          "per_10000_lc": 0.6483192323900289
+        },
+        "urheberrecht": {
+          "lk_count": 1,
+          "lc_count": 11,
+          "lk_document_frequency": 1,
+          "lc_document_frequency": 6,
+          "g2": 3.25498525391339,
+          "direction": "lc",
+          "per_10000_lk": 0.7736943907156673,
+          "per_10000_lc": 3.5657557781451588
+        },
+        "kennzeichnung": {
+          "lk_count": 0,
+          "lc_count": 33,
+          "lk_document_frequency": 0,
+          "lc_document_frequency": 6,
+          "g2": 23.106185669005367,
+          "direction": "lc",
+          "per_10000_lk": 0.0,
+          "per_10000_lc": 10.697267334435477
+        },
+        "verlage": {
+          "lk_count": 0,
+          "lc_count": 28,
+          "lk_document_frequency": 0,
+          "lc_document_frequency": 13,
+          "g2": 19.60390695023654,
+          "direction": "lc",
+          "per_10000_lk": 0.0,
+          "per_10000_lc": 9.076469253460404
+        }
+      },
+      "direction_changes_from_historical": []
+    },
+    "without_mixed": {
+      "tokens": {
+        "lk": 7424,
+        "lc": 17700
+      },
+      "documents": {
+        "lk": 10,
+        "lc": 27
+      },
+      "wordforms": {
+        "ki": {
+          "lk_count": 63,
+          "lc_count": 424,
+          "lk_document_frequency": 7,
+          "lc_document_frequency": 26,
+          "g2": 76.74008920144261,
+          "direction": "lc",
+          "per_10000_lk": 84.85991379310346,
+          "per_10000_lc": 239.54802259887006
+        },
+        "chatgpt": {
+          "lk_count": 5,
+          "lc_count": 82,
+          "lk_document_frequency": 3,
+          "lc_document_frequency": 14,
+          "g2": 31.444071578398113,
+          "direction": "lc",
+          "per_10000_lk": 6.734913793103448,
+          "per_10000_lc": 46.32768361581921
+        },
+        "literatur": {
+          "lk_count": 10,
+          "lc_count": 16,
+          "lk_document_frequency": 3,
+          "lc_document_frequency": 7,
+          "g2": 0.9449456634739999,
+          "direction": "lk",
+          "per_10000_lk": 13.469827586206897,
+          "per_10000_lc": 9.03954802259887
+        },
+        "menschen": {
+          "lk_count": 11,
+          "lc_count": 25,
+          "lk_document_frequency": 4,
+          "lc_document_frequency": 10,
+          "g2": 0.017417566548951435,
+          "direction": "lk",
+          "per_10000_lk": 14.816810344827585,
+          "per_10000_lc": 14.124293785310734
+        },
+        "mensch": {
+          "lk_count": 8,
+          "lc_count": 6,
+          "lk_document_frequency": 6,
+          "lc_document_frequency": 6,
+          "g2": 4.590224435279963,
+          "direction": "lk",
+          "per_10000_lk": 10.775862068965518,
+          "per_10000_lc": 3.3898305084745766
+        },
+        "autoren": {
+          "lk_count": 5,
+          "lc_count": 61,
+          "lk_document_frequency": 3,
+          "lc_document_frequency": 19,
+          "g2": 19.54951321382338,
+          "direction": "lc",
+          "per_10000_lk": 6.734913793103448,
+          "per_10000_lc": 34.463276836158194
+        },
+        "autor": {
+          "lk_count": 11,
+          "lc_count": 22,
+          "lk_document_frequency": 4,
+          "lc_document_frequency": 10,
+          "g2": 0.22207863067325562,
+          "direction": "lk",
+          "per_10000_lk": 14.816810344827585,
+          "per_10000_lc": 12.429378531073446
+        },
+        "lesen": {
+          "lk_count": 22,
+          "lc_count": 7,
+          "lk_document_frequency": 4,
+          "lc_document_frequency": 6,
+          "g2": 26.524262215796835,
+          "direction": "lk",
+          "per_10000_lk": 29.63362068965517,
+          "per_10000_lc": 3.9548022598870056
+        },
+        "schreiben": {
+          "lk_count": 11,
+          "lc_count": 55,
+          "lk_document_frequency": 5,
+          "lc_document_frequency": 16,
+          "g2": 5.888580441810115,
+          "direction": "lc",
+          "per_10000_lk": 14.816810344827585,
+          "per_10000_lc": 31.073446327683616
+        },
+        "kreativität": {
+          "lk_count": 1,
+          "lc_count": 3,
+          "lk_document_frequency": 1,
+          "lc_document_frequency": 3,
+          "g2": 0.041089863905430846,
+          "direction": "lc",
+          "per_10000_lk": 1.3469827586206897,
+          "per_10000_lc": 1.6949152542372883
+        },
+        "erfahrung": {
+          "lk_count": 2,
+          "lc_count": 1,
+          "lk_document_frequency": 2,
+          "lc_document_frequency": 1,
+          "g2": 1.7580922189528712,
+          "direction": "lk",
+          "per_10000_lk": 2.6939655172413794,
+          "per_10000_lc": 0.5649717514124294
+        },
+        "urheberrecht": {
+          "lk_count": 1,
+          "lc_count": 4,
+          "lk_document_frequency": 1,
+          "lc_document_frequency": 3,
+          "g2": 0.23630189966804105,
+          "direction": "lc",
+          "per_10000_lk": 1.3469827586206897,
+          "per_10000_lc": 2.2598870056497176
+        },
+        "kennzeichnung": {
+          "lk_count": 0,
+          "lc_count": 32,
+          "lk_document_frequency": 0,
+          "lc_document_frequency": 5,
+          "g2": 22.433684047756955,
+          "direction": "lc",
+          "per_10000_lk": 0.0,
+          "per_10000_lc": 18.07909604519774
+        },
+        "verlage": {
+          "lk_count": 0,
+          "lc_count": 26,
+          "lk_document_frequency": 0,
+          "lc_document_frequency": 11,
+          "g2": 18.224759075328652,
+          "direction": "lc",
+          "per_10000_lk": 0.0,
+          "per_10000_lc": 14.689265536723163
+        }
+      },
+      "direction_changes_from_historical": []
+    },
+    "without_mixed_and_summaries": {
+      "tokens": {
+        "lk": 7067,
+        "lc": 13118
+      },
+      "documents": {
+        "lk": 9,
+        "lc": 15
+      },
+      "wordforms": {
+        "ki": {
+          "lk_count": 58,
+          "lc_count": 327,
+          "lk_document_frequency": 6,
+          "lc_document_frequency": 14,
+          "g2": 78.54136068595434,
+          "direction": "lc",
+          "per_10000_lk": 82.07160039620771,
+          "per_10000_lc": 249.275804238451
+        },
+        "chatgpt": {
+          "lk_count": 3,
+          "lc_count": 61,
+          "lk_document_frequency": 2,
+          "lc_document_frequency": 10,
+          "g2": 34.736944742554975,
+          "direction": "lc",
+          "per_10000_lk": 4.245082779114193,
+          "per_10000_lc": 46.50099100472633
+        },
+        "literatur": {
+          "lk_count": 2,
+          "lc_count": 9,
+          "lk_document_frequency": 2,
+          "lc_document_frequency": 5,
+          "g2": 1.5248760280751745,
+          "direction": "lc",
+          "per_10000_lk": 2.830055186076129,
+          "per_10000_lc": 6.860801951517
+        },
+        "menschen": {
+          "lk_count": 10,
+          "lc_count": 22,
+          "lk_document_frequency": 3,
+          "lc_document_frequency": 8,
+          "g2": 0.20285631953819028,
+          "direction": "lc",
+          "per_10000_lk": 14.150275930380642,
+          "per_10000_lc": 16.770849214819332
+        },
+        "mensch": {
+          "lk_count": 8,
+          "lc_count": 5,
+          "lk_document_frequency": 6,
+          "lc_document_frequency": 5,
+          "g2": 3.780955057500191,
+          "direction": "lk",
+          "per_10000_lk": 11.320220744304516,
+          "per_10000_lc": 3.8115566397316663
+        },
+        "autoren": {
+          "lk_count": 4,
+          "lc_count": 45,
+          "lk_document_frequency": 2,
+          "lc_document_frequency": 9,
+          "g2": 19.511280472632023,
+          "direction": "lc",
+          "per_10000_lk": 5.660110372152258,
+          "per_10000_lc": 34.304009757585
+        },
+        "autor": {
+          "lk_count": 11,
+          "lc_count": 12,
+          "lk_document_frequency": 4,
+          "lc_document_frequency": 6,
+          "g2": 1.5926028317683318,
+          "direction": "lk",
+          "per_10000_lk": 15.565303523418708,
+          "per_10000_lc": 9.147735935356
+        },
+        "lesen": {
+          "lk_count": 22,
+          "lc_count": 6,
+          "lk_document_frequency": 4,
+          "lc_document_frequency": 5,
+          "g2": 22.285589098824794,
+          "direction": "lk",
+          "per_10000_lk": 31.130607046837415,
+          "per_10000_lc": 4.573867967678
+        },
+        "schreiben": {
+          "lk_count": 11,
+          "lc_count": 34,
+          "lk_document_frequency": 5,
+          "lc_document_frequency": 7,
+          "g2": 2.3455029812473462,
+          "direction": "lc",
+          "per_10000_lk": 15.565303523418708,
+          "per_10000_lc": 25.918585150175332
+        },
+        "kreativität": {
+          "lk_count": 1,
+          "lc_count": 2,
+          "lk_document_frequency": 1,
+          "lc_document_frequency": 2,
+          "g2": 0.0037406128766231256,
+          "direction": "lc",
+          "per_10000_lk": 1.4150275930380645,
+          "per_10000_lc": 1.5246226558926665
+        },
+        "erfahrung": {
+          "lk_count": 2,
+          "lc_count": 0,
+          "lk_document_frequency": 2,
+          "lc_document_frequency": 0,
+          "g2": 4.198382661323469,
+          "direction": "lk",
+          "per_10000_lk": 2.830055186076129,
+          "per_10000_lc": 0.0
+        },
+        "urheberrecht": {
+          "lk_count": 1,
+          "lc_count": 3,
+          "lk_document_frequency": 1,
+          "lc_document_frequency": 2,
+          "g2": 0.186087678589282,
+          "direction": "lc",
+          "per_10000_lk": 1.4150275930380645,
+          "per_10000_lc": 2.286933983839
+        },
+        "kennzeichnung": {
+          "lk_count": 0,
+          "lc_count": 29,
+          "lk_document_frequency": 0,
+          "lc_document_frequency": 4,
+          "g2": 25.017829551010887,
+          "direction": "lc",
+          "per_10000_lk": 0.0,
+          "per_10000_lc": 22.107028510443666
+        },
+        "verlage": {
+          "lk_count": 0,
+          "lc_count": 18,
+          "lk_document_frequency": 0,
+          "lc_document_frequency": 7,
+          "g2": 15.523013066469375,
+          "direction": "lc",
+          "per_10000_lk": 0.0,
+          "per_10000_lc": 13.721603903034
+        }
+      },
+      "direction_changes_from_historical": []
+    }
+  }
+}
