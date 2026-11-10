@@ -1,6 +1,6 @@
 # KI und Literatur – Begleitmaterialien zum Changchun-Aufsatz
 
-Lokales Publikationssupplement zum Manuskriptstand v7, vorbereitet am 10. November 2026. Noch nicht auf GitHub veröffentlicht. Enthalten sind die zwei finalen Abbildungen, ausgewählte Analyse- und Korpusmetadaten, historische Kategorien/Familien und überprüfbare quantitative Auswertungen.
+Lokales Publikationssupplement zum Manuskriptstand v8, vorbereitet am 10. November 2026. Enthalten sind die zwei finalen Abbildungen, ausgewählte Analyse- und Korpusmetadaten, historische Kategorien/Familien und überprüfbare quantitative Auswertungen.
 
 ## Schnellstart
 
